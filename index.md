@@ -28,9 +28,9 @@
 |19.11.2021   | [slide4_improved.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide4_improved.pdf)  | Sprachmodelle, Backoff-Smoothing, corrected a minor mistake in backoff formula  |
 |             | [contingency_table.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/contingency_table.pdf)  | Chi-Quadrat-Test, Kontingenztabelle |
 |26.11.2021   | [slide5_naive_bayes_fix_backoff.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide5_naive_bayes_fix_backoff.pdf)  | backoff, naive bayes (corrected some mistakes in the slide)|
-|3.12.2021   | [slide6_HMM.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide6_HMM.pdf)  | HMM  |
-|10.12.2021   | [slide_7_viterbi.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide_7_viterbi.pdf)  | Viterbi, EM-Training  |
-|16.12.2021   | [slide8_backward_algo_parser.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide8_backward_algo_parser.pdf)    | forward, backward algorithm, parser, exams + suggestions    |
+|3.12.2021   | [slide6_HMM.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide6_HMM.pdf)  | HMM  |
+|10.12.2021   | [slide_7_viterbi.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide_7_viterbi.pdf)  | Viterbi, EM-Training  |
+|16.12.2021   | [slide8_backward_algo_parser.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide8_backward_algo_parser.pdf)    | forward, backward algorithm, parser, exams + suggestions    |
 |......   | [Parsewald_erstellen](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/parser_Parsewald_update.pdf)   | ......     |
 |24.12.2021   | kein Tutorium  | Frohe Weihnachten!🎄  |
 | 7.1.2022 |Tutorium findet wieder statt| -----:|
