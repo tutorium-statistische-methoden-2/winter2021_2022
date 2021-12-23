@@ -23,7 +23,7 @@
 | Date       | Slide          | Note |
 | ------------- |:-------------:| -----:|
 |29.10.2021    | [tutorium_1_corrected.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/tutorium_1_improved2.pdf)   | corrected mistakes on page 29, 40, 41     |
-|5.11.2021    | [slide2.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide2_improved.pdf)   |Erwartungswert, Varianz, Binomialtest      |
+|5.11.2021    | [slide2.pdf](https://tutorium-statistische-methoden-2.github.io/winter_2021_2022/slide2_improved.pdf)   |Erwartungswert, Varianz, Binomialtest      |
 |12.11.2021   | [slide3.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide3.pdf)   | Binomialtest, Entropie, Fragen beantworten    |
 |19.11.2021   | [slide4_improved.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide4_improved.pdf)  | Sprachmodelle, Backoff-Smoothing, corrected a minor mistake in backoff formula  |
 |             | [contingency_table.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/contingency_table.pdf)  | Chi-Quadrat-Test, Kontingenztabelle |
@@ -31,7 +31,7 @@
 |3.12.2021   | [slide6_HMM.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide6_HMM.pdf)  | HMM  |
 |10.12.2021   | [slide_7_viterbi.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide_7_viterbi.pdf)  | Viterbi, EM-Training  |
 |16.12.2021   | [slide8_backward_algo_parser.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide8_backward_algo_parser.pdf)    | forward, backward algorithm, parser, exams + suggestions    |
-|......   | [Parsewald_erstellen](https://tutorium-statistische-methoden.github.io/winter_2021_2022/parser_Parsewald_update.pdf)   | ......     |
+|......   | [Parsewald_erstellen](https://tutorium-statistische-methoden-2.github.io/winter_2021_2022/parser_Parsewald_update.pdf)   | ......     |
 |24.12.2021   | kein Tutorium  | Frohe Weihnachten!🎄  |
 | 7.1.2022 |Tutorium findet wieder statt| -----:|
 | ------------- |:-------------:| -----:|
