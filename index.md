@@ -31,7 +31,7 @@
 |3.12.2021   | [slide6_HMM.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide6_HMM.pdf)  | HMM  |
 |10.12.2021   | [slide_7_viterbi.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide_7_viterbi.pdf)  | Viterbi, EM-Training  |
 |16.12.2021   | [slide8_backward_algo_parser.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide8_backward_algo_parser.pdf)    | forward, backward algorithm, parser, exams + suggestions    |
-|......   | [Parsewald_erstellen](https://tutorium-statistische-methoden-2.github.io/winter_2021_2022/parser_Parsewald_update.pdf)   | ......     |
+|......   | [Parsewald_erstellen](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/parser_Parsewald_update.pdf)   | ......     |
 |24.12.2021   | kein Tutorium  | Frohe Weihnachten!🎄  |
 | 7.1.2022 |Tutorium findet wieder statt| -----:|
 | ------------- |:-------------:| -----:|
