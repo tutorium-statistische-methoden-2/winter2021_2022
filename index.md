@@ -33,9 +33,12 @@
 |16.12.2021   | [slide8_backward_algo_parser_improved.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide8_backward_algo_parser_improved.pdf)    | forward, backward algorithm, parser, exams + suggestions    |
 |......   | [Parsewald_erstellen](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/parser_Parsewald_update.pdf)   | ......     |
 |24.12.2021   | kein Tutorium  | Frohe Weihnachten!🎄  |
-| 7.1.2022 |Tutorium findet wieder statt| -----|
+| 7.1.2022 |[slide9_viterbi_inside-outside_Berkeley.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide9_viterbi_inside-outside_Berkeley.pdf)| -----|
+| ------------- |-------------| -----|
+| ------------- |-------------| -----|
 | ------------- |-------------| -----|
 | ------------- |-------------| -----|
 
 
 
+slide9_viterbi_inside-outside_Berkeley.pdf
