@@ -34,7 +34,7 @@
 |16.12.2021   | [slide8_backward_algo_parser_improved.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide8_backward_algo_parser_improved.pdf)    | forward, backward algorithm, parser, exams + suggestions    |
 |......   | [Parsewald_erstellen](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/parser_Parsewald_update.pdf)   | ......     |
 |24.12.2021   | kein Tutorium  | Frohe Weihnachten!🎄  |
-| 7.1.2022 |[slide9_viterbi_inside-outside_Berkeley.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide9_viterbi_inside-outside_Berkeley.pdf)| -----|
+| 7.1.2022 |[slide9_Viterbi_inside-outside_Berkeley.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide9_Viterbi_inside-outside_Berkeley.pdf)| -----|
 | ...|[left_corner_code_explain.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/left_corner_code_explain.pdf)| disclaimer: slide from last year. I haven't checked if everything is correct|
 | ... |[left_corner_corrected_index.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/left_corner_corrected_index.pdf)|disclaimer: slide from last year. I haven't checked if everything is correct|
 | ...|[parser_altklausuren_loesung.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/parser_altklausuren_loesung.pdf)| disclaimer: slide from last year. I haven't checked if everything is correct|
