@@ -17,6 +17,7 @@
 
 ### etc.
 - Wenn ihr Fehler in meiner Folien gefunden habt, lasst es mich bitte wissen. Danke!
+- disclaimer: the suggested solution of old exams are created by me and I didn't have Herr Schmid check them. If you are not sure if something is correct, please let me know.
 
 ### Materialien
 
@@ -41,6 +42,3 @@
 | .... |-------------| -----|
 | .... |-------------| -----|
 
-
-
-slide9_viterbi_inside-outside_Berkeley.pdf
