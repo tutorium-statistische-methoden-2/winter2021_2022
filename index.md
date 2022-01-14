@@ -17,7 +17,7 @@
 
 ### etc.
 - Wenn ihr Fehler in meiner Folien gefunden habt, lasst es mich bitte wissen. Danke!
-- disclaimer: the suggested solution of old exams are created by me and I didn't have Herr Schmid check them. If you are not sure if something is correct, please let me know.
+- disclaimer: the suggested solutions of old exams are created by me and I intentionally didn't have Herr Schmid check them (otherwise the questions might not be picked as exam questions). If you are not sure if something is correct, please let me know.
 
 ### Materialien
 
