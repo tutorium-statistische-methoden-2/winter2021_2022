@@ -38,6 +38,8 @@
 | 21.1.2022 |Folie ist in Bearbeitung| discriminative models|
 | .... |[zusammenfassung_statistische_modelle.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/zusammenfassung_statistische_modelle.pdf)| -----|
 | .... |[Altklausuraufgaben_zum_Üben.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/Altklausuraufgaben_zum_Üben.pdf)|Wir können die Aufgaben am 11.2.2022 gemeinsam anschauen/lösen|
+| .... |[Code für Forward-Backward-Algorithmus (bigram, trigram)](https://colab.research.google.com/drive/1NH7FNCaMsRkHGLBv9QvZn0Q0m-dclcil?usp=sharing)| -----|
+| .... |-------------| -----|
 | .... |clarify| Ich wollte etwas zu Berkeley Parser noch klären. Jemand hat im Tutorium gefragt, ob die synthetische Merkmale  0,1 gemeint sind. Ja, das ist schon richtig. Das sind die synthetische Merkmale von der Kategorie (wie NP, VP). (Ich habe da geantwortet, dass z.B. NP0, NP1 sind die Merkmale.)|
 | 28.1.2022 |-------------| plan: linear chain CRF + Klausuraufgaben lösen|
 | 4.2.2022 |KEIN Tutorium (ich habe da Klausuren)| -----|
