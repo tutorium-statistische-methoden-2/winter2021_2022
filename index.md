@@ -35,9 +35,16 @@
 |24.12.2021   | kein Tutorium  | Frohe Weihnachten!🎄  |
 | 7.1.2022 |[slide9_Viterbi_inside-outside_Berkeley.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide9_Viterbi_inside-outside_Berkeley.pdf)| -----|
 | 14.1.2022 |[slide10_left-corner.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/slide10_left-corner.pdf)| -----|
+| 21.1.2022 |Folie ist in Bearbeitung| discriminative models|
+| 28.1.2022 |-------------| linear chain CRF|
+| 4.2.2022 |KEIN Tutorium (ich habe da Klausuren)| -----|
+| 11.2.2022 | extra Termin|plan: Vorbereitung auf Vorlesung Klausur|
+| 18.2.2022| extra Termin|plan: Vorbereitung auf Übungklausur|
+| 22.2.2022 |Übung Klausur| -----|
+| 23.2.2022 |Vorlesung Klausur| -----|
 | .... |-------------| -----|
 | .... |-------------| -----|
-| .... |-------------| -----|
+
 
 
 
