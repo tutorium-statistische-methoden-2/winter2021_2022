@@ -40,8 +40,8 @@
 | 4.2.2022 |KEIN Tutorium (ich habe da Klausuren)| -----|
 | 11.2.2022 | extra Termin|plan: Vorbereitung auf Vorlesung Klausur|
 | 18.2.2022| extra Termin|plan: Vorbereitung auf Übungklausur|
-| 22.2.2022 |Übung Klausur| -----|
-| 23.2.2022 |Vorlesung Klausur| -----|
+| 22.2.2022 |Übung Klausur| 10 Uhr c.t. in Hörsaal BU101|
+| 23.2.2022 |Vorlesung Klausur| 10 Uhr c.t. in Hörsaal BU101|
 | .... |-------------| -----|
 | .... |-------------| -----|
 
