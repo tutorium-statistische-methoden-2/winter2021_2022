@@ -44,8 +44,8 @@
 | .... |clarify| Ich wollte etwas zu Berkeley Parser noch klären. Jemand hat im Tutorium gefragt, ob die synthetische Merkmale  0,1 gemeint sind. Ja, das ist schon richtig. Das sind die synthetische Merkmale von der Kategorie (wie NP, VP). Ich habe geantwortet, dass z.B. NP0, NP1 sind die Merkmale, was nicht ganz korrekt war.|
 | 28.1.2022 |-------------| plan: linear chain CRF + Klausuraufgaben lösen|
 | 4.2.2022 |KEIN Tutorium | -----|
-| 11.2.2022 | extra Termin|plan: Wiederholung + Altklausuren machen|
-| 18.2.2022| ~~~~extra Termin| fällt aus~~|
+| 11.2.2022 | extra Termin|plan: Wiederholung + Altklausuren machen + Fragen beantworten|
+| 18.2.2022| ~~extra Termin| fällt aus~~|
 | 22.2.2022 |Übung Klausur| 10 Uhr c.t. in Hörsaal BU101|
 | 23.2.2022 |Vorlesung Klausur| 10 Uhr c.t. in Hörsaal BU101|
 | .... |-------------| -----|
