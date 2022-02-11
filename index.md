@@ -45,7 +45,7 @@
 | 28.1.2022 |-------------| plan: linear chain CRF + Klausuraufgaben lösen|
 | 4.2.2022 |KEIN Tutorium | -----|
 | 11.2.2022 | extra Termin|plan: Wiederholung + Altklausuren machen + Fragen beantworten|
-| 18.2.2022|  ( extra Termin )| Falls es Nachfrage gibt werde ich diesen Termin noch bieten|
+| 18.2.2022|  ( extra Termin )| Falls es Nachfrage gibt, werde ich diesen Termin noch bieten|
 | 22.2.2022 |Übung Klausur| |
 | 23.2.2022 |Vorlesung Klausur| |
 | .... |-------------| -----|
